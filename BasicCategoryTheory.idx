@@ -1,0 +1,876 @@
+\indexentry{universal!property|(hyperpage}{1}
+\indexentry{set!one-element|hyperpage}{1}
+\indexentry{uniqueness|hyperpage}{2}
+\indexentry{ring|hyperpage}{2}
+\indexentry{Z@$\integers$ (integers)!ring@as ring|hyperpage}{2}
+\indexentry{universal!property!determines object uniquely|hyperpage}{3}
+\indexentry{vector space|hyperpage}{3}
+\indexentry{uniqueness|hyperpage}{3}
+\indexentry{topological space!discrete|hyperpage}{4}
+\indexentry{vector space|hyperpage}{4}
+\indexentry{map!bilinear|hyperpage}{4}
+\indexentry{tensor product|(hyperpage}{5}
+\indexentry{universal!property!determines object uniquely|hyperpage}{5}
+\indexentry{tensor product|)hyperpage}{6}
+\indexentry{group|hyperpage}{6}
+\indexentry{kernel|hyperpage}{6}
+\indexentry{inclusion|hyperpage}{6}
+\indexentry{topological space|hyperpage}{7}
+\indexentry{group!fundamental|hyperpage}{7}
+\indexentry{van Kampen's theorem|hyperpage}{7}
+\indexentry{universal!property|)hyperpage}{8}
+\indexentry{topological space!indiscrete|hyperpage}{8}
+\indexentry{indiscrete space|hyperpage}{8}
+\indexentry{kernel|hyperpage}{8}
+\indexentry{ring!polynomial|hyperpage}{8}
+\indexentry{Eilenberg, Samuel|hyperpage}{10}
+\indexentry{Mac~Lane, Saunders|hyperpage}{10}
+\indexentry{computer science|hyperpage}{11}
+\indexentry{applied mathematics|hyperpage}{11}
+\indexentry{category|hyperpage}{11}
+\indexentry{object|hyperpage}{11}
+\indexentry{map|hyperpage}{11}
+\indexentry{arrow|hyperpage}{11}
+\indexentry{morphism|hyperpage}{11}
+\indexentry{composition|hyperpage}{11}
+\indexentry{identity|hyperpage}{11}
+\indexentry{associativity|hyperpage}{11}
+\indexentry{identity|hyperpage}{11}
+\indexentry{uniqueness!constructions@of constructions|hyperpage}{11}
+\indexentry{identity!zero-fold composite@as zero-fold composite|hyperpage}{12}
+\indexentry{diagram!commutative|hyperpage}{12}
+\indexentry{commutes|hyperpage}{12}
+\indexentry{collection|hyperpage}{12}
+\indexentry{class|hyperpage}{12}
+\indexentry{domain|hyperpage}{12}
+\indexentry{codomain|hyperpage}{12}
+\indexentry{set!category of sets|hyperpage}{12}
+\indexentry{group!category of groups|hyperpage}{13}
+\indexentry{ring!category of rings|hyperpage}{13}
+\indexentry{vector space!category of vector spaces|hyperpage}{13}
+\indexentry{topological space!category of topological spaces|hyperpage}{13}
+\indexentry{isomorphism|hyperpage}{13}
+\indexentry{inverse|hyperpage}{13}
+\indexentry{set!category of sets!isomorphisms in|hyperpage}{13}
+\indexentry{group!category of groups!isomorphisms in|hyperpage}{13}
+\indexentry{ring!category of rings!isomorphisms in|hyperpage}{13}
+\indexentry{topological space!category of topological spaces!isomorphisms in|hyperpage}{14}
+\indexentry{object!need not resemble set|hyperpage}{14}
+\indexentry{map!need not resemble function|hyperpage}{14}
+\indexentry{category!drawing of|hyperpage}{14}
+\indexentry{category!discrete|hyperpage}{15}
+\indexentry{category!one-object|(hyperpage}{15}
+\indexentry{group!one-object category@as one-object category|hyperpage}{15}
+\indexentry{monoid|hyperpage}{16}
+\indexentry{natural numbers|hyperpage}{16}
+\indexentry{monoid!one-object category@as one-object category|hyperpage}{16}
+\indexentry{category!one-object|)hyperpage}{16}
+\indexentry{preorder|hyperpage}{17}
+\indexentry{ordered set|hyperpage}{17}
+\indexentry{partially ordered set|hyperpage}{17}
+\indexentry{poset|hyperpage}{17}
+\indexentry{ordered set!preordered set@vs.\ preordered set|hyperpage}{17}
+\indexentry{category!opposite|hyperpage}{17}
+\indexentry{duality|hyperpage}{17}
+\indexentry{duality!principle of|hyperpage}{17}
+\indexentry{category!product of categories|hyperpage}{18}
+\indexentry{homotopy|hyperpage}{18}
+\indexentry{functor|hyperpage}{19}
+\indexentry{uniqueness!constructions@of constructions|hyperpage}{19}
+\indexentry{category!category of categories|hyperpage}{19}
+\indexentry{functor!composition of functors|hyperpage}{19}
+\indexentry{functor!identity|hyperpage}{19}
+\indexentry{functor!forgetful|hyperpage}{20}
+\indexentry{underlying|hyperpage}{20}
+\indexentry{underlying|hyperpage}{20}
+\indexentry{functor!free|hyperpage}{20}
+\indexentry{free functor|hyperpage}{20}
+\indexentry{group!free|hyperpage}{20}
+\indexentry{word|hyperpage}{21}
+\indexentry{ring!polynomial|hyperpage}{21}
+\indexentry{vector space!free|hyperpage}{21}
+\indexentry{algebraic topology|hyperpage}{22}
+\indexentry{group!fundamental|hyperpage}{22}
+\indexentry{homology|hyperpage}{23}
+\indexentry{polynomial|hyperpage}{23}
+\indexentry{simultaneous equations|hyperpage}{23}
+\indexentry{algebraic geometry|hyperpage}{23}
+\indexentry{scheme|hyperpage}{23}
+\indexentry{monoid!homomorphism of monoids|hyperpage}{23}
+\indexentry{monoid!action of|hyperpage}{23}
+\indexentry{G-set@$G$-set|hyperpage}{24}
+\indexentry{representation!group or monoid@of group or monoid!linear|hyperpage}{24}
+\indexentry{order-preserving|hyperpage}{24}
+\indexentry{map!order-preserving|hyperpage}{24}
+\indexentry{functor!contravariant|hyperpage}{24}
+\indexentry{contravariant|hyperpage}{24}
+\indexentry{functor!covariant|hyperpage}{24}
+\indexentry{covariant|hyperpage}{24}
+\indexentry{topological space!functions on|hyperpage}{24}
+\indexentry{ring!functions@of functions|hyperpage}{24}
+\indexentry{pointwise|hyperpage}{24}
+\indexentry{duality!algebra--geometry|hyperpage}{25}
+\indexentry{vector space!linear maps@of linear maps|hyperpage}{25}
+\indexentry{vector space!functions on|hyperpage}{26}
+\indexentry{vector space!dual|hyperpage}{26}
+\indexentry{duality!vector spaces@for vector spaces|hyperpage}{26}
+\indexentry{cohomology|hyperpage}{26}
+\indexentry{monoid!action of|hyperpage}{26}
+\indexentry{presheaf|(hyperpage}{26}
+\indexentry{topological space!functions on|hyperpage}{26}
+\indexentry{sheaf|hyperpage}{26}
+\indexentry{presheaf|)hyperpage}{26}
+\indexentry{functor!faithful|hyperpage}{27}
+\indexentry{faithful|hyperpage}{27}
+\indexentry{functor!full|hyperpage}{27}
+\indexentry{subcategory!full|hyperpage}{27}
+\indexentry{subcategory!full|hyperpage}{27}
+\indexentry{functor!image of|hyperpage}{27}
+\indexentry{image!functor@of functor|hyperpage}{27}
+\indexentry{isomorphism!preserved by functors|hyperpage}{28}
+\indexentry{order-preserving|hyperpage}{28}
+\indexentry{map!order-preserving|hyperpage}{28}
+\indexentry{isomorphism!categories@of categories|hyperpage}{28}
+\indexentry{category!isomorphism of categories|hyperpage}{28}
+\indexentry{group!opposite|hyperpage}{28}
+\indexentry{monoid!opposite|hyperpage}{28}
+\indexentry{centre|hyperpage}{28}
+\indexentry{category!product of categories|hyperpage}{28}
+\indexentry{functor!faithful|hyperpage}{29}
+\indexentry{faithful|hyperpage}{29}
+\indexentry{natural transformation|hyperpage}{30}
+\indexentry{component!natural transformation@of natural transformation|hyperpage}{30}
+\indexentry{uniqueness!constructions@of constructions|hyperpage}{30}
+\indexentry{category!discrete!functor out of|hyperpage}{31}
+\indexentry{monoid!action of|hyperpage}{31}
+\indexentry{monoid!one-object category@as one-object category|hyperpage}{31}
+\indexentry{equivariant|hyperpage}{31}
+\indexentry{determinant|hyperpage}{31}
+\indexentry{natural transformation!composition of|hyperpage}{32}
+\indexentry{natural transformation!identity|hyperpage}{32}
+\indexentry{functor!category|hyperpage}{33}
+\indexentry{category!discrete!functor out of|hyperpage}{33}
+\indexentry{monoid!action of|hyperpage}{33}
+\indexentry{ordered set|hyperpage}{33}
+\indexentry{uniqueness|hyperpage}{33}
+\indexentry{isomorphism!natural|hyperpage}{33}
+\indexentry{naturally|hyperpage}{34}
+\indexentry{category!discrete!functor out of|hyperpage}{34}
+\indexentry{vector space!dual|hyperpage}{34}
+\indexentry{duality!vector spaces@for vector spaces|hyperpage}{34}
+\indexentry{evaluation|hyperpage}{34}
+\indexentry{canonical|hyperpage}{35}
+\indexentry{sameness|(hyperpage}{35}
+\indexentry{sameness|)hyperpage}{36}
+\indexentry{equivalence of categories|hyperpage}{36}
+\indexentry{category!equivalence of categories|hyperpage}{36}
+\indexentry{essentially surjective on objects|hyperpage}{36}
+\indexentry{functor!essentially surjective on objects|hyperpage}{36}
+\indexentry{functor!full and faithful|hyperpage}{37}
+\indexentry{category!slimmed-down|hyperpage}{37}
+\indexentry{set!finite|hyperpage}{37}
+\indexentry{monoid!one-object category@as one-object category|hyperpage}{37}
+\indexentry{duality|hyperpage}{38}
+\indexentry{duality!algebra--geometry|hyperpage}{38}
+\indexentry{duality!Stone|hyperpage}{38}
+\indexentry{Boolean algebra|hyperpage}{38}
+\indexentry{duality!Gelfand--Naimark|hyperpage}{38}
+\indexentry{C-algebra@$C^*$-algebra|hyperpage}{38}
+\indexentry{algebraic geometry|hyperpage}{38}
+\indexentry{variety|hyperpage}{38}
+\indexentry{duality!Pontryagin|hyperpage}{38}
+\indexentry{topological group|hyperpage}{38}
+\indexentry{group!topological|hyperpage}{38}
+\indexentry{Fourier analysis|hyperpage}{38}
+\indexentry{group!non-homomorphisms of groups|hyperpage}{38}
+\indexentry{natural transformation!composition of|(hyperpage}{39}
+\indexentry{composition!vertical|hyperpage}{39}
+\indexentry{composition!horizontal|hyperpage}{39}
+\indexentry{interchange law|hyperpage}{40}
+\indexentry{functor!category|hyperpage}{40}
+\indexentry{two-category@2-category|hyperpage}{41}
+\indexentry{category!two-category of categories@2-category of categories|hyperpage}{41}
+\indexentry{n-category@$n$-category|hyperpage}{41}
+\indexentry{infinity-category@$\infty$-category|hyperpage}{41}
+\indexentry{natural transformation!composition of|)hyperpage}{41}
+\indexentry{canonical|hyperpage}{41}
+\indexentry{category!product of categories|hyperpage}{41}
+\indexentry{group!isomorphism of elements of|hyperpage}{42}
+\indexentry{Z@$\integers$ (integers)!group@as group|hyperpage}{42}
+\indexentry{permutation|hyperpage}{42}
+\indexentry{total order|hyperpage}{42}
+\indexentry{ordered set!totally|hyperpage}{42}
+\indexentry{matrix|hyperpage}{43}
+\indexentry{vector space|hyperpage}{43}
+\indexentry{adjunction|hyperpage}{44}
+\indexentry{transpose|hyperpage}{45}
+\indexentry{adjunction!naturality axiom for|hyperpage}{45}
+\indexentry{uniqueness!constructions@of constructions|hyperpage}{45}
+\indexentry{algebra!associative|(hyperpage}{45}
+\indexentry{associative algebra|(hyperpage}{45}
+\indexentry{Lie algebra|(hyperpage}{45}
+\indexentry{adjunction!uniqueness of adjoints|hyperpage}{46}
+\indexentry{universal!enveloping algebra|hyperpage}{46}
+\indexentry{algebra!associative|)hyperpage}{46}
+\indexentry{associative algebra|)hyperpage}{46}
+\indexentry{Lie algebra|)hyperpage}{46}
+\indexentry{adjunction!free--forgetful|(hyperpage}{46}
+\indexentry{functor!forgetful!left adjoint to|hyperpage}{46}
+\indexentry{vector space!free|hyperpage}{46}
+\indexentry{group!free|hyperpage}{47}
+\indexentry{explicit description|hyperpage}{48}
+\indexentry{abelianization|hyperpage}{48}
+\indexentry{group!abelianization of|hyperpage}{48}
+\indexentry{group!free on monoid|hyperpage}{48}
+\indexentry{monoid!free group on|hyperpage}{48}
+\indexentry{subcategory!reflective|hyperpage}{49}
+\indexentry{reflective|hyperpage}{49}
+\indexentry{coreflective|hyperpage}{49}
+\indexentry{field|hyperpage}{49}
+\indexentry{adjunction!free--forgetful|)hyperpage}{49}
+\indexentry{algebraic theory|hyperpage}{49}
+\indexentry{arity|hyperpage}{50}
+\indexentry{algebra!algebraic theory@for algebraic theory|hyperpage}{50}
+\indexentry{model|hyperpage}{50}
+\indexentry{topological space!discrete|hyperpage}{50}
+\indexentry{topological space!indiscrete|hyperpage}{50}
+\indexentry{indiscrete space|hyperpage}{50}
+\indexentry{set!category of sets!products in|hyperpage}{51}
+\indexentry{set!functions@of functions|hyperpage}{51}
+\indexentry{function!set of functions|hyperpage}{51}
+\indexentry{object!initial|hyperpage}{51}
+\indexentry{object!terminal|hyperpage}{51}
+\indexentry{Z@$\integers$ (integers)!ring@as ring|hyperpage}{52}
+\indexentry{object!initial!uniqueness of|hyperpage}{52}
+\indexentry{object!initial!adjoint@as adjoint|hyperpage}{52}
+\indexentry{duality!principle of|hyperpage}{52}
+\indexentry{adjunction!composition of adjunctions|hyperpage}{53}
+\indexentry{adjunction!naturality axiom for|hyperpage}{53}
+\indexentry{group!action of|hyperpage}{54}
+\indexentry{G-set@$G$-set|hyperpage}{54}
+\indexentry{representation!group or monoid@of group or monoid!linear|hyperpage}{54}
+\indexentry{functor!diagonal|hyperpage}{54}
+\indexentry{presheaf|hyperpage}{54}
+\indexentry{adjunction!naturality axiom for|(hyperpage}{54}
+\indexentry{adjunction!naturality axiom for|)hyperpage}{55}
+\indexentry{unit and counit|hyperpage}{55}
+\indexentry{vector space!free!unit of|hyperpage}{55}
+\indexentry{triangle identities|hyperpage}{56}
+\indexentry{unit and counit!adjunction in terms of|hyperpage}{56}
+\indexentry{unit and counit!adjunction in terms of|hyperpage}{57}
+\indexentry{ordered set!adjunction between|hyperpage}{58}
+\indexentry{topological space|hyperpage}{58}
+\indexentry{closure|hyperpage}{58}
+\indexentry{adjunction!equivalence@vs.\ equivalence|hyperpage}{59}
+\indexentry{equivalence of categories!adjunction@vs.\ adjunction|hyperpage}{59}
+\indexentry{category!equivalence of categories!adjunction@vs.\ adjunction|hyperpage}{59}
+\indexentry{string diagram|hyperpage}{59}
+\indexentry{diagram!string|hyperpage}{59}
+\indexentry{triangle identities|hyperpage}{60}
+\indexentry{ordered set!adjunction between|hyperpage}{60}
+\indexentry{adjunction!fixed points of|hyperpage}{61}
+\indexentry{fixed point|hyperpage}{61}
+\indexentry{reflection (adjunction)|hyperpage}{61}
+\indexentry{inverse!image|hyperpage}{61}
+\indexentry{predicate|hyperpage}{61}
+\indexentry{quantifiers as adjoints|hyperpage}{61}
+\indexentry{vector space!free!unit of|hyperpage}{62}
+\indexentry{comma category|hyperpage}{63}
+\indexentry{slice category|hyperpage}{63}
+\indexentry{coslice category|hyperpage}{64}
+\indexentry{category!coslice|hyperpage}{64}
+\indexentry{adjunction!initial objects@via initial objects|(hyperpage}{65}
+\indexentry{unit and counit!unit as initial object|(hyperpage}{65}
+\indexentry{adjunction!initial objects@via initial objects|)hyperpage}{67}
+\indexentry{unit and counit!unit as initial object|)hyperpage}{67}
+\indexentry{unit and counit!injectivity of unit|hyperpage}{68}
+\indexentry{group!free|hyperpage}{68}
+\indexentry{partial function|hyperpage}{68}
+\indexentry{function!partial|hyperpage}{68}
+\indexentry{set!intuitive description of|hyperpage}{70}
+\indexentry{set!structurelessness of|hyperpage}{70}
+\indexentry{function!intuitive description of|hyperpage}{70}
+\indexentry{set!category of sets|hyperpage}{71}
+\indexentry{set!empty|hyperpage}{71}
+\indexentry{function!number of functions|hyperpage}{71}
+\indexentry{set!one-element|hyperpage}{71}
+\indexentry{element!function@as function|hyperpage}{72}
+\indexentry{set!category of sets!products in|hyperpage}{72}
+\indexentry{family|hyperpage}{72}
+\indexentry{set!category of sets!sums in|hyperpage}{72}
+\indexentry{disjoint union|hyperpage}{72}
+\indexentry{union|hyperpage}{72}
+\indexentry{set!functions@of functions|hyperpage}{73}
+\indexentry{function!set of functions|hyperpage}{73}
+\indexentry{arithmetic|hyperpage}{73}
+\indexentry{set!two-element|hyperpage}{73}
+\indexentry{subset|hyperpage}{73}
+\indexentry{characteristic function|hyperpage}{73}
+\indexentry{function!characteristic|hyperpage}{73}
+\indexentry{power!set|hyperpage}{74}
+\indexentry{equalizer!sets@of sets|hyperpage}{74}
+\indexentry{set!category of sets!equalizers in|hyperpage}{74}
+\indexentry{equivalence relation|hyperpage}{74}
+\indexentry{quotient!set@of set|hyperpage}{74}
+\indexentry{set!quotient of|hyperpage}{74}
+\indexentry{natural numbers|hyperpage}{75}
+\indexentry{sequence|hyperpage}{75}
+\indexentry{section|hyperpage}{75}
+\indexentry{inverse!right|hyperpage}{75}
+\indexentry{axiom of choice|hyperpage}{75}
+\indexentry{foundations|(hyperpage}{75}
+\indexentry{set!definition of|(hyperpage}{75}
+\indexentry{black king|hyperpage}{76}
+\indexentry{chess|hyperpage}{76}
+\indexentry{set!empty|hyperpage}{77}
+\indexentry{foundations|)hyperpage}{77}
+\indexentry{set!definition of|)hyperpage}{77}
+\indexentry{functor!diagonal|hyperpage}{78}
+\indexentry{set!size of|(hyperpage}{78}
+\indexentry{Cantor, Georg!Cantor--Bernstein theorem|hyperpage}{78}
+\indexentry{cardinality|hyperpage}{79}
+\indexentry{Cantor, Georg!Cantor's theorem|hyperpage}{79}
+\indexentry{set!size of|)hyperpage}{80}
+\indexentry{class|hyperpage}{80}
+\indexentry{small|hyperpage}{80}
+\indexentry{large|hyperpage}{80}
+\indexentry{small|hyperpage}{80}
+\indexentry{category!small|hyperpage}{80}
+\indexentry{large|hyperpage}{80}
+\indexentry{category!large|hyperpage}{80}
+\indexentry{locally small|hyperpage}{80}
+\indexentry{category!locally small|hyperpage}{80}
+\indexentry{hom-set|hyperpage}{80}
+\indexentry{set!category of sets!locally small@is locally small|hyperpage}{80}
+\indexentry{vector space!category of vector spaces!locally small@is locally small|hyperpage}{80}
+\indexentry{group!category of groups!locally small@is locally small|hyperpage}{80}
+\indexentry{ring!category of rings!locally small@is locally small|hyperpage}{80}
+\indexentry{topological space!category of topological spaces!locally small@is   locally small|hyperpage}{80}
+\indexentry{essentially small|hyperpage}{81}
+\indexentry{category!essentially small|hyperpage}{81}
+\indexentry{set!finite|hyperpage}{81}
+\indexentry{set!category of sets!essentially small@is not essentially small|hyperpage}{81}
+\indexentry{vector space!category of vector spaces!essentially small@is not   essentially small|hyperpage}{81}
+\indexentry{group!category of groups!essentially small@is not essentially small|hyperpage}{81}
+\indexentry{ring!category of rings!essentially small@is not essentially small|hyperpage}{81}
+\indexentry{topological space!category of topological spaces!essentially small@is not   essentially small|hyperpage}{81}
+\indexentry{category!category of categories|hyperpage}{82}
+\indexentry{monoid!one-object category@as one-object category|hyperpage}{82}
+\indexentry{fixed point|hyperpage}{82}
+\indexentry{category!category of categories!adjunctions with $\Set$|hyperpage}{83}
+\indexentry{category!discrete|hyperpage}{83}
+\indexentry{object!set of category@-set of category|hyperpage}{83}
+\indexentry{set!history|(hyperpage}{83}
+\indexentry{Cantor, Georg|hyperpage}{83}
+\indexentry{Fourier analysis|hyperpage}{83}
+\indexentry{Kronecker, Leopold|hyperpage}{83}
+\indexentry{type|(hyperpage}{84}
+\indexentry{computer science|hyperpage}{84}
+\indexentry{set!axiomatization of sets|(hyperpage}{84}
+\indexentry{ZFC (Zermelo--Fraenkel with choice)|(hyperpage}{84}
+\indexentry{computer science|hyperpage}{85}
+\indexentry{set!conflicting meaning in ZFC|hyperpage}{85}
+\indexentry{foundations|hyperpage}{85}
+\indexentry{type|)hyperpage}{86}
+\indexentry{object!probing of|hyperpage}{86}
+\indexentry{topos|hyperpage}{87}
+\indexentry{set!category of sets!topos@as topos|hyperpage}{87}
+\indexentry{set!history|)hyperpage}{87}
+\indexentry{set!axiomatization of sets|)hyperpage}{87}
+\indexentry{ZFC (Zermelo--Fraenkel with choice)|)hyperpage}{87}
+\indexentry{functor!seeing@`seeing'|hyperpage}{88}
+\indexentry{Z@$\integers$ (integers)!group@as group|hyperpage}{88}
+\indexentry{field|hyperpage}{88}
+\indexentry{locally small|hyperpage}{89}
+\indexentry{category!locally small|hyperpage}{89}
+\indexentry{functor!representable|hyperpage}{89}
+\indexentry{representation!functor@of functor|hyperpage}{89}
+\indexentry{functor!set-valued|hyperpage}{90}
+\indexentry{set!valued functor@-valued functor|hyperpage}{90}
+\indexentry{functor!seeing@`seeing'|hyperpage}{90}
+\indexentry{functor!forgetful!representable@is representable|hyperpage}{90}
+\indexentry{group!order of element of|hyperpage}{90}
+\indexentry{object!set of category@-set of category|hyperpage}{90}
+\indexentry{monoid!action of|hyperpage}{90}
+\indexentry{representation!group or monoid@of group or monoid!regular|hyperpage}{90}
+\indexentry{homotopy|hyperpage}{91}
+\indexentry{group!fundamental|hyperpage}{91}
+\indexentry{map!bilinear|hyperpage}{91}
+\indexentry{tensor product|hyperpage}{91}
+\indexentry{functor!representable!adjoints@and adjoints|hyperpage}{91}
+\indexentry{functor!forgetful!representable@is representable|(hyperpage}{92}
+\indexentry{topological space!discrete|hyperpage}{92}
+\indexentry{category!discrete|hyperpage}{92}
+\indexentry{vector space!free|hyperpage}{92}
+\indexentry{functor!forgetful!left adjoint to|hyperpage}{92}
+\indexentry{ring!free|hyperpage}{93}
+\indexentry{ring!polynomial|hyperpage}{93}
+\indexentry{functor!forgetful!representable@is representable|)hyperpage}{93}
+\indexentry{aerial photography|hyperpage}{93}
+\indexentry{functor!representable|hyperpage}{94}
+\indexentry{representation!functor@of functor|hyperpage}{94}
+\indexentry{power!set|hyperpage}{94}
+\indexentry{inverse!image|hyperpage}{94}
+\indexentry{set!two-element|hyperpage}{94}
+\indexentry{topological space!open subset of|hyperpage}{95}
+\indexentry{open subset|hyperpage}{95}
+\indexentry{set!open|hyperpage}{95}
+\indexentry{topological space!two-point|hyperpage}{95}
+\indexentry{ring!functions@of functions|hyperpage}{95}
+\indexentry{topological space!functions on|hyperpage}{95}
+\indexentry{Yoneda embedding|hyperpage}{95}
+\indexentry{functor!contravariant|hyperpage}{96}
+\indexentry{contravariant|hyperpage}{96}
+\indexentry{hom-set|hyperpage}{96}
+\indexentry{metric space|hyperpage}{96}
+\indexentry{adjunction!naturality axiom for|hyperpage}{97}
+\indexentry{element!generalized|hyperpage}{97}
+\indexentry{shape!generalized element@of generalized element|hyperpage}{97}
+\indexentry{sequence|hyperpage}{98}
+\indexentry{loop|(hyperpage}{98}
+\indexentry{algebra|hyperpage}{98}
+\indexentry{algebraic geometry|hyperpage}{98}
+\indexentry{loop|)hyperpage}{98}
+\indexentry{Sierpi\'nski space|hyperpage}{99}
+\indexentry{uniqueness!constructions@of constructions|(hyperpage}{100}
+\indexentry{uniqueness!constructions@of constructions|)hyperpage}{100}
+\indexentry{Yoneda lemma|hyperpage}{100}
+\indexentry{evaluation|hyperpage}{101}
+\indexentry{monoid!Yoneda lemma for monoids|hyperpage}{105}
+\indexentry{Yoneda lemma!monoids@for monoids|hyperpage}{105}
+\indexentry{representation!group or monoid@of group or monoid!regular|hyperpage}{105}
+\indexentry{representation!functor@of functor!universal element@as universal   element|(hyperpage}{105}
+\indexentry{element!presheaf@of presheaf|hyperpage}{106}
+\indexentry{presheaf!element of|hyperpage}{106}
+\indexentry{element!universal|hyperpage}{106}
+\indexentry{universal!element|hyperpage}{106}
+\indexentry{unit and counit!unit as initial object|hyperpage}{106}
+\indexentry{adjunction!initial objects@via initial objects|hyperpage}{106}
+\indexentry{vector space!free!unit of|hyperpage}{107}
+\indexentry{adjunction!naturality axiom for|hyperpage}{107}
+\indexentry{adjunction!initial objects@via initial objects|hyperpage}{108}
+\indexentry{group|hyperpage}{108}
+\indexentry{Z@$\integers$ (integers)!group@as group|hyperpage}{108}
+\indexentry{representation!functor@of functor!universal element@as universal   element|)hyperpage}{108}
+\indexentry{Yoneda embedding|(hyperpage}{108}
+\indexentry{embedding|hyperpage}{109}
+\indexentry{subcategory!full|hyperpage}{109}
+\indexentry{functor!full and faithful|hyperpage}{109}
+\indexentry{isomorphism!full and faithful functors@and full and faithful functors|hyperpage}{109}
+\indexentry{group|hyperpage}{110}
+\indexentry{Z@$\integers$ (integers)!group@as group|hyperpage}{110}
+\indexentry{Yoneda embedding|)hyperpage}{110}
+\indexentry{functor!representable!isomorphism of representables|(hyperpage}{110}
+\indexentry{duck|hyperpage}{110}
+\indexentry{group!order of element of|hyperpage}{111}
+\indexentry{element!generalized|hyperpage}{111}
+\indexentry{map!bilinear|hyperpage}{112}
+\indexentry{uniqueness|hyperpage}{112}
+\indexentry{tensor product|hyperpage}{112}
+\indexentry{functor!representable!isomorphism of representables|)hyperpage}{112}
+\indexentry{adjunction!uniqueness of adjoints|hyperpage}{113}
+\indexentry{set!category of sets!products in|hyperpage}{114}
+\indexentry{product|hyperpage}{115}
+\indexentry{projection|hyperpage}{115}
+\indexentry{product!uniqueness of|hyperpage}{116}
+\indexentry{product!informal usage|hyperpage}{116}
+\indexentry{set!category of sets!products in|hyperpage}{116}
+\indexentry{topological space!category of topological spaces!products in|hyperpage}{116}
+\indexentry{vector space!direct sum of vector spaces|hyperpage}{117}
+\indexentry{vector space!category of vector spaces!products in|hyperpage}{117}
+\indexentry{ordered set!product in|(hyperpage}{117}
+\indexentry{minimum|hyperpage}{117}
+\indexentry{power!set|hyperpage}{117}
+\indexentry{intersection|hyperpage}{117}
+\indexentry{greatest common divisor|hyperpage}{118}
+\indexentry{lower bound|hyperpage}{118}
+\indexentry{greatest lower bound|hyperpage}{118}
+\indexentry{meet|hyperpage}{118}
+\indexentry{ordered set!product in|)hyperpage}{118}
+\indexentry{product!binary|hyperpage}{118}
+\indexentry{product|hyperpage}{118}
+\indexentry{component!map into product@of map into product|hyperpage}{118}
+\indexentry{lower bound|hyperpage}{119}
+\indexentry{greatest lower bound|hyperpage}{119}
+\indexentry{meet|hyperpage}{119}
+\indexentry{infimum|hyperpage}{119}
+\indexentry{product!empty|hyperpage}{119}
+\indexentry{empty family|hyperpage}{119}
+\indexentry{family!empty|hyperpage}{119}
+\indexentry{object!terminal|hyperpage}{119}
+\indexentry{set!one-element|hyperpage}{119}
+\indexentry{arithmetic|hyperpage}{119}
+\indexentry{power|hyperpage}{119}
+\indexentry{fork|hyperpage}{119}
+\indexentry{equalizer|hyperpage}{120}
+\indexentry{set!category of sets!equalizers in|hyperpage}{120}
+\indexentry{equalizer!sets@of sets|hyperpage}{120}
+\indexentry{simultaneous equations|hyperpage}{120}
+\indexentry{topological space!category of topological spaces!equalizers in|hyperpage}{121}
+\indexentry{topological space!subspace of|hyperpage}{121}
+\indexentry{kernel|hyperpage}{121}
+\indexentry{group!category of groups!equalizers in|hyperpage}{121}
+\indexentry{vector space!category of vector spaces!equalizers in|hyperpage}{121}
+\indexentry{kernel|hyperpage}{121}
+\indexentry{pullback|hyperpage}{122}
+\indexentry{pullback!square|hyperpage}{122}
+\indexentry{fibred product|hyperpage}{122}
+\indexentry{product!pullback@as pullback|hyperpage}{122}
+\indexentry{inverse!image!pullback@as pullback|hyperpage}{123}
+\indexentry{intersection!pullback@as pullback|hyperpage}{124}
+\indexentry{element!generalized|hyperpage}{125}
+\indexentry{small|hyperpage}{125}
+\indexentry{category!small|hyperpage}{125}
+\indexentry{diagram|hyperpage}{125}
+\indexentry{shape!diagram@of diagram|hyperpage}{125}
+\indexentry{cone|hyperpage}{126}
+\indexentry{vertex|hyperpage}{126}
+\indexentry{limit|hyperpage}{126}
+\indexentry{projection|hyperpage}{126}
+\indexentry{limit!informal usage|hyperpage}{127}
+\indexentry{limit!cone|hyperpage}{127}
+\indexentry{cone!limit|hyperpage}{127}
+\indexentry{limit!small|hyperpage}{127}
+\indexentry{small|hyperpage}{127}
+\indexentry{intersection|hyperpage}{128}
+\indexentry{inverse!limit|hyperpage}{128}
+\indexentry{limit!inverse|hyperpage}{128}
+\indexentry{thought experiment|hyperpage}{128}
+\indexentry{set!category of sets!limits in|hyperpage}{128}
+\indexentry{group!category of groups!limits in|hyperpage}{129}
+\indexentry{ring!category of rings!limits in|hyperpage}{129}
+\indexentry{vector space!category of vector spaces!limits in|hyperpage}{129}
+\indexentry{topological space!category of topological spaces!limits in|hyperpage}{129}
+\indexentry{limit!has limits|hyperpage}{129}
+\indexentry{category!finite|hyperpage}{129}
+\indexentry{limit!finite|hyperpage}{129}
+\indexentry{limit!products and equalizers@from products and equalizers|hyperpage}{129}
+\indexentry{simultaneous equations|hyperpage}{130}
+\indexentry{topological space!compact Hausdorff|hyperpage}{130}
+\indexentry{vector space!category of vector spaces!limits in|hyperpage}{131}
+\indexentry{group!abelian!finite limit of|hyperpage}{131}
+\indexentry{monic|hyperpage}{131}
+\indexentry{monomorphism|hyperpage}{131}
+\indexentry{element!generalized|hyperpage}{131}
+\indexentry{function!injective|hyperpage}{131}
+\indexentry{injection|hyperpage}{131}
+\indexentry{set!category of sets!monics in|hyperpage}{131}
+\indexentry{group!category of groups!monics in|hyperpage}{131}
+\indexentry{vector space!category of vector spaces!monics in|hyperpage}{131}
+\indexentry{ring!category of rings!monics in|hyperpage}{131}
+\indexentry{equalizer!pullback@vs.\ pullback|hyperpage}{132}
+\indexentry{pullback!equalizer@vs.\ equalizer|hyperpage}{132}
+\indexentry{pullback!pasting of pullbacks|hyperpage}{132}
+\indexentry{limit!pullbacks and terminal object@from pullbacks and terminal object|hyperpage}{133}
+\indexentry{subobject|hyperpage}{133}
+\indexentry{subset|hyperpage}{133}
+\indexentry{pullback!monic@of monic|hyperpage}{134}
+\indexentry{monic!pullback of|hyperpage}{134}
+\indexentry{duality!terminology for|hyperpage}{134}
+\indexentry{cocone|hyperpage}{134}
+\indexentry{colimit|hyperpage}{134}
+\indexentry{vertex|hyperpage}{134}
+\indexentry{coprojection|hyperpage}{135}
+\indexentry{sum|hyperpage}{135}
+\indexentry{coproduct|hyperpage}{135}
+\indexentry{sum!empty|hyperpage}{135}
+\indexentry{family!empty|hyperpage}{135}
+\indexentry{empty family|hyperpage}{135}
+\indexentry{object!initial|hyperpage}{135}
+\indexentry{set!category of sets!sums in|hyperpage}{135}
+\indexentry{vector space!category of vector spaces!sums in|hyperpage}{136}
+\indexentry{vector space!direct sum of vector spaces|hyperpage}{136}
+\indexentry{ordered set!sum in|hyperpage}{136}
+\indexentry{upper bound|hyperpage}{136}
+\indexentry{least upper bound|hyperpage}{136}
+\indexentry{join|hyperpage}{136}
+\indexentry{least element|hyperpage}{136}
+\indexentry{supremum|hyperpage}{136}
+\indexentry{power!set|hyperpage}{136}
+\indexentry{union|hyperpage}{136}
+\indexentry{lowest common multiple|hyperpage}{136}
+\indexentry{coequalizer|hyperpage}{136}
+\indexentry{relation|hyperpage}{136}
+\indexentry{equivalence relation!generated by relation|hyperpage}{137}
+\indexentry{generated equivalence relation|hyperpage}{137}
+\indexentry{quotient!set@of set|hyperpage}{137}
+\indexentry{set!quotient of|hyperpage}{137}
+\indexentry{set!category of sets!coequalizers in|hyperpage}{138}
+\indexentry{group!abelian!coequalizer of|hyperpage}{138}
+\indexentry{image!homomorphism@of homomorphism|hyperpage}{138}
+\indexentry{pushout|hyperpage}{138}
+\indexentry{set!category of sets!pushouts in|hyperpage}{139}
+\indexentry{union!pushout@as pushout|hyperpage}{139}
+\indexentry{intersection!pullback@as pullback|hyperpage}{139}
+\indexentry{sum!pushout@as pushout|hyperpage}{139}
+\indexentry{van Kampen's theorem|hyperpage}{139}
+\indexentry{group!fundamental|hyperpage}{139}
+\indexentry{direct limit|hyperpage}{139}
+\indexentry{limit!direct|hyperpage}{139}
+\indexentry{set!category of sets!colimits in|hyperpage}{140}
+\indexentry{duality|hyperpage}{140}
+\indexentry{limit!colimit@vs.\ colimit|hyperpage}{140}
+\indexentry{quotient|hyperpage}{140}
+\indexentry{surface|(hyperpage}{140}
+\indexentry{sphere|(hyperpage}{140}
+\indexentry{equalizer|hyperpage}{141}
+\indexentry{bicycle inner tube|hyperpage}{141}
+\indexentry{sphere|)hyperpage}{141}
+\indexentry{surface|)hyperpage}{141}
+\indexentry{manifold|hyperpage}{141}
+\indexentry{epic|hyperpage}{142}
+\indexentry{epimorphism|hyperpage}{142}
+\indexentry{function!surjective|hyperpage}{142}
+\indexentry{surjection|hyperpage}{142}
+\indexentry{set!category of sets!epics in|hyperpage}{142}
+\indexentry{vector space!category of vector spaces!epics in|hyperpage}{142}
+\indexentry{group!category of groups!epics in|hyperpage}{142}
+\indexentry{ring!category of rings!epics in|hyperpage}{142}
+\indexentry{topological space!category of topological spaces!epics in|hyperpage}{142}
+\indexentry{topological space!Hausdorff|hyperpage}{142}
+\indexentry{monoid!epics between monoids|hyperpage}{143}
+\indexentry{quotient|hyperpage}{143}
+\indexentry{equivalence relation|hyperpage}{143}
+\indexentry{group!normal subgroup of|hyperpage}{143}
+\indexentry{monic!regular|hyperpage}{143}
+\indexentry{monic!split|hyperpage}{143}
+\indexentry{epic!regular|hyperpage}{144}
+\indexentry{epic!split|hyperpage}{144}
+\indexentry{axiom of choice|hyperpage}{144}
+\indexentry{monic!pullback of|hyperpage}{144}
+\indexentry{pullback!monic@of monic|hyperpage}{144}
+\indexentry{monic!composition of monics|hyperpage}{144}
+\indexentry{limit!preservation of|hyperpage}{145}
+\indexentry{limit!reflection of|hyperpage}{145}
+\indexentry{reflection of limits|hyperpage}{145}
+\indexentry{topological space!category of topological spaces!limits in|hyperpage}{145}
+\indexentry{topological space!category of topological spaces!colimits in|hyperpage}{145}
+\indexentry{group!category of groups!colimits in|hyperpage}{146}
+\indexentry{vector space!category of vector spaces!colimits in|hyperpage}{146}
+\indexentry{group!category of groups!limits in|(hyperpage}{146}
+\indexentry{vector space!category of vector spaces!limits in|(hyperpage}{146}
+\indexentry{ring!category of rings!limits in|(hyperpage}{146}
+\indexentry{limit!creation of|(hyperpage}{147}
+\indexentry{creation of limits|(hyperpage}{147}
+\indexentry{limit!creation of|)hyperpage}{148}
+\indexentry{creation of limits|)hyperpage}{148}
+\indexentry{group!category of groups!limits in|)hyperpage}{148}
+\indexentry{vector space!category of vector spaces!limits in|)hyperpage}{148}
+\indexentry{ring!category of rings!limits in|)hyperpage}{148}
+\indexentry{limit!functoriality of|hyperpage}{148}
+\indexentry{product!functoriality of|hyperpage}{148}
+\indexentry{group!category of groups!limits in|hyperpage}{149}
+\indexentry{ring!category of rings!limits in|hyperpage}{149}
+\indexentry{vector space!category of vector spaces!limits in|hyperpage}{149}
+\indexentry{projective object|hyperpage}{149}
+\indexentry{object!projective|hyperpage}{149}
+\indexentry{injective object|hyperpage}{149}
+\indexentry{object!injective|hyperpage}{149}
+\indexentry{functor!diagonal|hyperpage}{151}
+\indexentry{cone!natural transformation@as natural transformation|hyperpage}{151}
+\indexentry{limit!representation of cone functor@as representation of cone   functor|hyperpage}{151}
+\indexentry{limit!uniqueness of|hyperpage}{152}
+\indexentry{limit!map between limits|hyperpage}{153}
+\indexentry{limit!adjoint@as adjoint|hyperpage}{154}
+\indexentry{limit!uniqueness of|hyperpage}{154}
+\indexentry{functor!representable!preserves limits|(hyperpage}{154}
+\indexentry{product!map into|hyperpage}{155}
+\indexentry{equalizer!map into|hyperpage}{155}
+\indexentry{cone!set of cones as limit|hyperpage}{156}
+\indexentry{limit!map into|hyperpage}{156}
+\indexentry{colimit!map out of|hyperpage}{156}
+\indexentry{limit!colimit@vs.\ colimit|hyperpage}{156}
+\indexentry{sum!map out of|hyperpage}{156}
+\indexentry{functor!representable!preserves limits|)hyperpage}{157}
+\indexentry{functor!category!limits in|(hyperpage}{157}
+\indexentry{limit!functor category@in functor category|(hyperpage}{157}
+\indexentry{functor!product of functors|hyperpage}{157}
+\indexentry{evaluation|hyperpage}{157}
+\indexentry{limit!computed pointwise|hyperpage}{158}
+\indexentry{pointwise|hyperpage}{158}
+\indexentry{limit!non-pointwise|hyperpage}{159}
+\indexentry{limit!commutativity with limits|hyperpage}{160}
+\indexentry{Fubini's theorem|hyperpage}{160}
+\indexentry{colimit!integration@and integration|hyperpage}{160}
+\indexentry{product!commutativity of|hyperpage}{161}
+\indexentry{product!associativity of|hyperpage}{161}
+\indexentry{associativity|hyperpage}{161}
+\indexentry{limit!commutativity with colimits@non-commutativity with colimits|hyperpage}{161}
+\indexentry{presheaf!category of presheaves!limits in|hyperpage}{161}
+\indexentry{Yoneda embedding!preserves limits|hyperpage}{161}
+\indexentry{functor!representable!limit of representables|(hyperpage}{161}
+\indexentry{product!map into|hyperpage}{162}
+\indexentry{functor!representable!limit of representables|)hyperpage}{162}
+\indexentry{Yoneda embedding!preserves colimits@does not preserve colimits|hyperpage}{162}
+\indexentry{functor!category!limits in|)hyperpage}{162}
+\indexentry{limit!functor category@in functor category|)hyperpage}{162}
+\indexentry{presheaf!colimit of representables@as colimit of representables|(hyperpage}{162}
+\indexentry{functor!representable!colimit of representables|(hyperpage}{162}
+\indexentry{prime numbers|hyperpage}{162}
+\indexentry{holomorphic function|hyperpage}{163}
+\indexentry{power!series|hyperpage}{163}
+\indexentry{element!category of elements|hyperpage}{163}
+\indexentry{category!elements@of elements|hyperpage}{163}
+\indexentry{density|hyperpage}{164}
+\indexentry{element!category of elements|hyperpage}{165}
+\indexentry{category!elements@of elements|hyperpage}{165}
+\indexentry{element!generalized|hyperpage}{165}
+\indexentry{density|hyperpage}{165}
+\indexentry{presheaf!colimit of representables@as colimit of representables|)hyperpage}{165}
+\indexentry{functor!representable!colimit of representables|)hyperpage}{165}
+\indexentry{presheaf!category of presheaves!monics and epics in|hyperpage}{166}
+\indexentry{connectedness|hyperpage}{166}
+\indexentry{functor!representable!sum of representables|hyperpage}{166}
+\indexentry{presheaf!category of presheaves!slice of|hyperpage}{166}
+\indexentry{slice category!presheaf category@of presheaf category|hyperpage}{166}
+\indexentry{Kan extension|hyperpage}{167}
+\indexentry{group!action of|hyperpage}{167}
+\indexentry{G-set@$G$-set|hyperpage}{167}
+\indexentry{representation!group or monoid@of group or monoid!linear|hyperpage}{167}
+\indexentry{limit!preservation of!adjoint@by adjoint|hyperpage}{167}
+\indexentry{adjunction!limits preserved in|hyperpage}{167}
+\indexentry{functor!forgetful!preserves limits|hyperpage}{168}
+\indexentry{arithmetic|hyperpage}{168}
+\indexentry{natural numbers|hyperpage}{168}
+\indexentry{limit!commutativity with limits|hyperpage}{168}
+\indexentry{adjunction!nonexistence of adjoints|hyperpage}{168}
+\indexentry{field|hyperpage}{168}
+\indexentry{adjoint functor theorems|(hyperpage}{169}
+\indexentry{category!complete|hyperpage}{169}
+\indexentry{complete|hyperpage}{169}
+\indexentry{ordered set!adjunction between|(hyperpage}{169}
+\indexentry{limit!colimit@vs.\ colimit|(hyperpage}{170}
+\indexentry{least element!meet@as meet|hyperpage}{170}
+\indexentry{limit!colimit@vs.\ colimit|)hyperpage}{170}
+\indexentry{limit!large|(hyperpage}{171}
+\indexentry{limit!small|(hyperpage}{171}
+\indexentry{ordered set!complete small category is|hyperpage}{172}
+\indexentry{ordered set!adjunction between|)hyperpage}{172}
+\indexentry{limit!large|)hyperpage}{172}
+\indexentry{limit!small|)hyperpage}{172}
+\indexentry{set!weakly initial|hyperpage}{172}
+\indexentry{weakly initial|hyperpage}{172}
+\indexentry{adjoint functor theorems!general|hyperpage}{172}
+\indexentry{general adjoint functor theorem (GAFT)|hyperpage}{172}
+\indexentry{functor!forgetful!left adjoint to|hyperpage}{172}
+\indexentry{cardinality|hyperpage}{172}
+\indexentry{arithmetic!cardinal|hyperpage}{172}
+\indexentry{group!free|hyperpage}{172}
+\indexentry{explicit description|hyperpage}{173}
+\indexentry{functor!forgetful!left adjoint to|hyperpage}{173}
+\indexentry{adjoint functor theorems!special|hyperpage}{173}
+\indexentry{special adjoint functor theorem|hyperpage}{173}
+\indexentry{SAFT (special adjoint functor theorem)|hyperpage}{173}
+\indexentry{topological space!compact Hausdorff|hyperpage}{173}
+\indexentry{Stone-Cech compactification@Stone--\v {C}ech compactification|hyperpage}{174}
+\indexentry{adjoint functor theorems|)hyperpage}{174}
+\indexentry{category!cartesian closed|(hyperpage}{174}
+\indexentry{cartesian closed category|(hyperpage}{174}
+\indexentry{exponential|hyperpage}{174}
+\indexentry{set!functions@of functions|hyperpage}{174}
+\indexentry{function!set of functions|hyperpage}{174}
+\indexentry{functor!category|hyperpage}{174}
+\indexentry{arithmetic|hyperpage}{174}
+\indexentry{vector space!category of vector spaces!cartesian closed@is not   cartesian closed|hyperpage}{175}
+\indexentry{map!bilinear|hyperpage}{175}
+\indexentry{tensor product|hyperpage}{175}
+\indexentry{monoidal closed category|hyperpage}{175}
+\indexentry{category!monoidal closed|hyperpage}{175}
+\indexentry{thought experiment|hyperpage}{175}
+\indexentry{pointwise|hyperpage}{175}
+\indexentry{presheaf!category of presheaves!cartesian closed@is cartesian closed|hyperpage}{175}
+\indexentry{topos|hyperpage}{176}
+\indexentry{set!category of sets!topos@as topos|hyperpage}{177}
+\indexentry{topological space!topos@as topos|hyperpage}{177}
+\indexentry{sheaf|hyperpage}{177}
+\indexentry{subobject!classifier|hyperpage}{177}
+\indexentry{set!two-element|hyperpage}{177}
+\indexentry{category!cartesian closed|)hyperpage}{177}
+\indexentry{cartesian closed category|)hyperpage}{177}
+\indexentry{category!category of categories!adjunctions with $\Set$|hyperpage}{177}
+\indexentry{functor!representable!adjoints@and adjoints|hyperpage}{177}
+\indexentry{ordered set!preordered set@vs.\ preordered set|hyperpage}{177}
+\indexentry{ordered set!complete small category is|hyperpage}{178}
+\indexentry{cardinality|hyperpage}{178}
+\indexentry{arithmetic!cardinal|hyperpage}{178}
+\indexentry{group!free|hyperpage}{178}
+\indexentry{Yoneda embedding!preserves exponentials|hyperpage}{178}
+\indexentry{exponential!preserved by Yoneda embedding|hyperpage}{178}
+\indexentry{category!well-powered|hyperpage}{178}
+\indexentry{well-powered|hyperpage}{178}
+\indexentry{subobject!classifier|hyperpage}{178}
+\indexentry{topos|hyperpage}{178}
+\indexentry{presheaf!category of presheaves!topos@is topos|hyperpage}{178}
+\indexentry{topos|hyperpage}{178}
+\indexentry{thought experiment|hyperpage}{179}
+\indexentry{adjoint functor theorems!general|(hyperpage}{181}
+\indexentry{general adjoint functor theorem (GAFT)|(hyperpage}{181}
+\indexentry{set!weakly initial|(hyperpage}{181}
+\indexentry{weakly initial|(hyperpage}{181}
+\indexentry{least element|hyperpage}{181}
+\indexentry{functor!identity!limit of|hyperpage}{181}
+\indexentry{object!initial!limit of identity@as limit of identity|hyperpage}{181}
+\indexentry{limit!identity@of identity|hyperpage}{181}
+\indexentry{limit!large|hyperpage}{181}
+\indexentry{limit!creation of|hyperpage}{182}
+\indexentry{creation of limits|hyperpage}{182}
+\indexentry{comma category!limits in|hyperpage}{182}
+\indexentry{limit!small|hyperpage}{183}
+\indexentry{limit!large|hyperpage}{183}
+\indexentry{functor!identity!limit of|hyperpage}{183}
+\indexentry{object!initial!limit of identity@as limit of identity|hyperpage}{183}
+\indexentry{limit!identity@of identity|hyperpage}{183}
+\indexentry{least element|hyperpage}{183}
+\indexentry{set!weakly initial|)hyperpage}{183}
+\indexentry{weakly initial|)hyperpage}{183}
+\indexentry{adjoint functor theorems!general|)hyperpage}{183}
+\indexentry{general adjoint functor theorem (GAFT)|)hyperpage}{183}
+\indexentry{bilinear|hyperindexformat{\see{map, bilinear}}}{188}
+\indexentry{category!comma|hyperindexformat{\see{comma category}}}{188}
+\indexentry{category!slice|hyperindexformat{\see{slice category}}}{188}
+\indexentry{counit|hyperindexformat{\see{unit and counit}}}{188}
+\indexentry{diagonal|hyperindexformat{\see{functor, diagonal}}}{188}
+\indexentry{discrete|hyperindexformat{\see{category, discrete \emph{and} topological space, discrete}}}{188}
+\indexentry{element!least|hyperindexformat{\see{least element}}}{188}
+\indexentry{figure|hyperindexformat{\see{element, generalized}}}{188}
+\indexentry{forgetful|hyperindexformat{\see{functor, forgetful}}}{188}
+\indexentry{full|hyperindexformat{\see{functor, full \emph{and} subcategory, full}}}{188}
+\indexentry{generalized element|hyperindexformat{\see{element, generalized}}}{188}
+\indexentry{group!representation of|hyperindexformat{\see{representation}}}{188}
+\indexentry{image!inverse|hyperindexformat{\see{inverse image}}}{188}
+\indexentry{initial|hyperindexformat{\see{object, initial \emph{and} set, weakly initial}}}{188}
+\indexentry{integers|hyperindexformat{\see{$\integers$}}}{188}
+\indexentry{natural isomorphism|hyperindexformat{\see{isomorphism, natural}}}{188}
+\indexentry{preimage|hyperindexformat{\see{inverse image}}}{188}
+\indexentry{preservation|hyperindexformat{\see{limit, preservation of}}}{188}
+\indexentry{representable|hyperindexformat{\see{functor, representable}}}{188}
+\indexentry{terminal|hyperindexformat{\see{object, terminal}}}{188}
+\indexentry{arrow|hyperindexformat{\seealso{map}}}{188}
+\indexentry{category!one-object|hyperindexformat{\seealso{monoid \emph{and} group}}}{188}
+\indexentry{cocone|hyperindexformat{\seealso{cone}}}{188}
+\indexentry{coequalizer|hyperindexformat{\seealso{equalizer}}}{188}
+\indexentry{colimit|hyperindexformat{\seealso{limit}}}{188}
+\indexentry{coproduct|hyperindexformat{\seealso{sum}}}{188}
+\indexentry{disjoint union|hyperindexformat{\seealso{set, category of, sums in}}}{188}
+\indexentry{epic|hyperindexformat{\seealso{monic}}}{188}
+\indexentry{epimorphism|hyperindexformat{\seealso{epic}}}{188}
+\indexentry{exponential|hyperindexformat{\seealso{set of functions}}}{188}
+\indexentry{fibred product|hyperindexformat{\seealso{pullback}}}{188}
+\indexentry{G-set@$G$-set|hyperindexformat{\seealso{monoid, action of}}}{188}
+\indexentry{group|hyperindexformat{\seealso{monoid}}}{188}
+\indexentry{group!action of|hyperindexformat{\seealso{monoid, action of}}}{188}
+\indexentry{homotopy|hyperindexformat{\seealso{group, fundamental}}}{188}
+\indexentry{monoid!action of|hyperindexformat{\seealso{group, action of}}}{188}
+\indexentry{monomorphism|hyperindexformat{\seealso{monic}}}{188}
+\indexentry{morphism|hyperindexformat{\seealso{map}}}{188}
+\indexentry{natural numbers|hyperindexformat{\seealso{arithmetic}}}{188}
+\indexentry{object!terminal|hyperindexformat{\seealso{object, initial}}}{188}
+\indexentry{partially ordered set|hyperindexformat{\seealso{ordered set}}}{188}
+\indexentry{polynomial|hyperindexformat{\seealso{ring, polynomial}}}{188}
+\indexentry{poset|hyperindexformat{\seealso{ordered set}}}{188}
+\indexentry{preorder|hyperindexformat{\seealso{ordered set}}}{188}
+\indexentry{pushout|hyperindexformat{\seealso{pullback}}}{188}
+\indexentry{relation|hyperindexformat{\seealso{equivalence relation}}}{188}
+\indexentry{sum|hyperindexformat{\seealso{product}}}{188}
+\indexentry{topological space|hyperindexformat{\seealso{homotopy \emph{and} group, fundamental}}}{188}
+\indexentry{vector space|hyperindexformat{\seealso{bilinear map}}}{188}
