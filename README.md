@@ -7,3 +7,8 @@
 ```
 
 然后编译，终于舒服了！我的 Computer Modern 又回来了！！
+
+
+## 如果你也觉得 `txfont` 丑，但是不知道怎么修改……
+
+目录中的 `BasicCategoryTheory.pdf` 是已经编译好的文件，可以直接下载。
